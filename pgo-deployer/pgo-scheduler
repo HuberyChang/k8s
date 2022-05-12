@@ -1,0 +1,1 @@
+FROM registry.developers.crunchydata.com/crunchydata/pgo-scheduler:centos8-4.7.5
